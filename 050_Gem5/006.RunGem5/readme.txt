@@ -1,3 +1,4 @@
+We use compiled Gem5 (Ubuntu in X86) to run cross-compiler (in ARM, AMD, etc) for the Linear Traffic generator and Random Traffic Generator for cache hit/miss rate. 
 1. Syscall Emulation Mode: Model the devices of the systems
 2. m5ops: gem5 operations
 3. How to compile gem5 annotate binary?
