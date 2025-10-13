@@ -6,3 +6,4 @@ Topics:
 > gem5.opt run-mem.py -c LinearGenerator -r 50
 > gem5.opt run-mem.py -c RandomGenerator -r 100
 5. Check the m5out/stats.txt: Memory Bandwidth/throughput
+6. Simulation result: Multi-channel memory bandwidth is much higher than Single Channel Memory.
