@@ -10,7 +10,7 @@ Topics:
   e. Modify the below code
       > workload= obtain-resource (“x86-ubuntu-22.04-boot-with-systemd”, resource_version = “1.0,0”)
       > board.set_workload (workload)
-   f. Run the Full System sumulation
+   f. Run the Full System simulation
 3. Creating disk images using Packer and QEMU
-4. Extending/modifying a gem5 disk image
+4. Download gem5 disk image and enhance gem5 disk image 
 5. Using m5term to interact with a running system
