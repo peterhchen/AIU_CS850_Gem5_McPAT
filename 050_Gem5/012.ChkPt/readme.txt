@@ -13,7 +13,7 @@ b. The host must match the guest ISA (Instruction Set Architecture)
 c. Currently, we do not have the RISCV support for KVM.
 5. Checkpoint 
 5.1 Checkpoint advantage
-a. We can create one and run it many times and may different system
+a. We can create one and run it many times and may have different system
 b. Almost all devices and components are supported.
 5.2 Checkpoint disadvantage
 a. It cannot change workload and software at all between the checkpointing and restoring.
