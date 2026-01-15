@@ -1,5 +1,5 @@
 Topics:
-1. Review of Question “What If ROI is too large?”
+1. Review of Question “What If ROI (Region of Interest) is too large?”
 2. Sampling: Targeted Sampling and Statistical Sampling
 3. Gem5 Targeted sampling 
 4. Gem5 SimPoint 
