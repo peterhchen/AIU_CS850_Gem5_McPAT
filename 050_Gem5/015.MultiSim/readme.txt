@@ -4,9 +4,9 @@ Gem5 Multisim uses script and configuration to produce the consistent output for
 Topics:
 1. Gem5 Single thread Problem
 2. Gem5 Insight
-3. Gem5 Multi-Processing with Script
-4. Gem5 Parallel Simulation
-5. Declare Number of Process
+3. Multi-Processing by Script
+4. Multi-Processing by Script vs. Multisim
+5. Implement Gem5 Multisim
 6. Construct/Define multiple Simulation
 7. Add Multi-Sim Object
 8. Run Multi-Sim
