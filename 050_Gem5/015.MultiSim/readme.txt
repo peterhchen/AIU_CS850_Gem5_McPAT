@@ -6,7 +6,12 @@ Topics:
 2. Gem5 Insight
 3. Multi-Processing by Script
 4. Multi-Processing by Script vs. Multisim
-5. Implement Gem5 Multisim
-6. Construct/Define multiple Simulation
-7. Add Multi-Sim Object
-8. Run Multi-Sim
+5. Implement Multi-Processing by Multisim: 
+  5.1 Import Multisim, 
+  5.2 Setup Number of Processor will be used.
+  5.3 Setup Process: CPU Timing Model, ISA type: X86/ARM/AMD, Core  
+  5.4 Loop structure of Cache Cache and Instruction Cache
+  5.5 Memory Model: DDR3 Channel
+  5.6 Setup Board (Clock frequency, Processor, Cache, Memory) 
+6. Run Multisim with Single Script
+7. Display Multisim Configuration 
