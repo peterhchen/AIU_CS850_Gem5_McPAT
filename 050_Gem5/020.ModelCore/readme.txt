@@ -1,3 +1,4 @@
+Topics:
 1.What is ISA (Instruction Set Architecture)?
 2. ISA/CPU Independence
 3. StaticInst (Static Instruction) and DynInst (Dynamic Instruction): In StaticInst, the architectural definition of an instruction (opcode, operands, behavior) are decoded once and cached and does not change. DynInst contains dynamic information like specific register values, physical register mappings, PC (Program Counter), and prediction information.
