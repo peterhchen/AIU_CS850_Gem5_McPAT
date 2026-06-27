@@ -1,3 +1,4 @@
+Topics:
 1. Review CPU/Memory Model
 2. InspectorGadget (Model CPU/Memory Model):
 2.1 Create the inspection buffer.
