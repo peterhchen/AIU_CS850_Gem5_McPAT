@@ -7,8 +7,8 @@ We discuss the Cache Hierarchy with CHI (Coherence Hub Interface) protocol. CHI 
 5. Create DMA controller
 6. Connect the Controller Network.
 7. Create Run Script
-8. Run Simulator
-9. Import library for Full System Simulator
+8. Run 2 Level Cache Simulator
+9. Import library for Full System 2 Level Cache Simulator
 10. Results:
 a) Statistical Histogram of Missed Latencies: Ruby takes number of clock cycles to resolve the missed latencies in Cache
-b) IPC (Instruction Per Cycle): One instruction take number of clock cycl
+b) IPC (Instruction Per Cycle): One instruction take number of clock cycle.
