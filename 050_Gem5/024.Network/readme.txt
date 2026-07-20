@@ -15,3 +15,4 @@ Topics:
 6. Simple Network Structure
 7. Create Ring Topology for Ruby Network
 8. Create Garnet
+https://github.com/peterhchen/AIU_CS850_Gem5_McPAT/tree/main/050_Gem5/024.Network
