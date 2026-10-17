@@ -23,3 +23,6 @@ Gem5 focuses on system and DRAM focus on detailed DRAM simulation.
 3. Build DRAMSys
 4. Example of DRAMSys
 5. Example of DRAMSIm3.
+
+03.System C
+We can integrate with System C Component into gem5 using TLM (Transaction-Level Modeling) bridge like CIS (Coherent Interconnect Subsystem) or we can take a System C Model and compile into gem5.
